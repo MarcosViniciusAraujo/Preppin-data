@@ -2,7 +2,7 @@
 
 Created this repository to save my work from the web site [**Preppin' data**](https://www.preppindata.com/challenges).
 
-Every week a new challenge is realeased, and I try my best to solve it.
+Every week a new challenge is realeased, and I try my best to solve it using **Python**.
 
 **You can check all the challenges bellow:**
 
